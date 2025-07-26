@@ -22,12 +22,12 @@
   "symbol": "AMBC",
   "description": "Токен янтарно добывающей компании. AMBC отражает цифровую стоимость природного ресурса — янтаря., token ambermining company stones"
   "decimals": 9,
-  "image": "https://{
+  "image": "https://ibb.co/wZfMPSh9"
   "name": "AMBERCOIN",
   "symbol": "AMBC",
   "description": "Токен янтарно добывающей компании. AMBC отражает цифровую стоимость природного ресурса — янтаря., token ambermining company stones"
   "decimals": 9,
-  "image": "{
+  "image": "https://ibb.co/wZfMPSh9"
   "name": "AMBERCOIN",
   "symbol": "AMBC",
   "description": "Токен янтарно добывающей компании. AMBC отражает цифровую стоимость природного ресурса — янтаря., token ambermining company stones"
